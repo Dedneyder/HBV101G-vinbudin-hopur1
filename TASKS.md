@@ -2,6 +2,7 @@
 
 **Hópanúmer:** _[H1]_  
 **Nöfn nemenda:** _[Hilmir]_, _[Kristinn]_, _[Björgvin]_
+
 **vefsíðan:Vínbúðin**
 
 ## Tasks fyrir heuristics evaluation
