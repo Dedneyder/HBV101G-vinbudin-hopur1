@@ -3,8 +3,7 @@
 **Hópanúmer:** _[H1]_  
 **Nöfn nemenda:** _[Hilmir]_, _[Kristinn]_, _[Björgvin]_
 
-**vefsíðan: Vínbúðin**
-
+**vefsíðan:** Vínbúðin
 ## Tasks fyrir heuristics evaluation
 Skráið 5–7 notendaverkefni (tasks) sem þið notið við rýnina. Númerið þau og notið **task-númer** þegar þið skráið issues.
 
