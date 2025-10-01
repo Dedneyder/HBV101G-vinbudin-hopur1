@@ -15,4 +15,4 @@ Skráið 5–7 notendaverkefni (tasks) sem þið notið við rýnina. Númerið 
 | 4 |Fá rráðgjöf með drykk fyrir brúðkaup|Fá ráðgjöf um villibráð. Opnum vefverslun og förum í vínrrágjöf og matur. Síðan veljum við viðburðarrtegund og veljum fyrir brúðkaup. velja 200 manns og 4 klukkustundir.|https://www.vinbudin.is/heim/vinradgjof-og-matur/veisluvin.aspx/type-wedding/duration-4/peoplecount-200/#calculate|
 | 5 |             |                                |                             |
 | 6 |Fara í körrfu og kaupa skref 1,2,3,4|                                |                             |
-| 7 |Senda gjöf og hætta|Opna vefverrslun körfu og hakka í "Þetta er gjöf!" og af hakka það|(https://www.vinbudin.is/heim/vorur/voerukarfa)|
+| 7 |Senda gjöf og hætta|Opna vefverrslun körfu og hakka í "Þetta er gjöf!" og af hakka það.|(https://www.vinbudin.is/heim/vorur/voerukarfa)|
